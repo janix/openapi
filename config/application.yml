@@ -1,0 +1,4 @@
+openapi:
+  server:
+  tokenUrl: ${openapi.server}/token
+  authUrl: ${openapi.server}/auth
